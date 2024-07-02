@@ -14,3 +14,4 @@ aluno1.verifica_idade()  # Saída: O aluno é maior de idade.
 
 aluno2 = Aluno(16)
 aluno2.verifica_idade()  # Saída: O aluno é menor de idade.
+
